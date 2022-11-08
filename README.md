@@ -7,3 +7,4 @@ This is a Pytorch implementation of 3D Spatial Temporal Graph Pointwise Convolut
 
 ## Requirements
 - dgl-cu113 dglgo https://data.dgl.ai/wheels/repo.html
+- python3
